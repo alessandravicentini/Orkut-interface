@@ -1,0 +1,15 @@
+body{
+  width: 100vw;
+  height: 100vh;
+
+  background-color: rgb(212,221,238);
+
+  font-family: Tahoma, sans-serif;
+}
+
+button{
+  font-family: Tahoma, sans-serif;
+  
+  cursor: pointer;
+}
+
